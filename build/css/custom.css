@@ -2444,7 +2444,7 @@ textarea:focus {
 .bs-glyphicons li {
     float: left;
     width: 25%;
-    height: 115px;
+    height: 1px;
     padding: 10px;
     font-size: 10px;
     line-height: 1.4;
@@ -2454,7 +2454,7 @@ textarea:focus {
 }
 .bs-glyphicons .glyphicon {
     margin-top: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-size: 24px
 }
 .bs-glyphicons .glyphicon-class {
